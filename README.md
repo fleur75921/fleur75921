@@ -1,4 +1,4 @@
-### Hi there 👋
+![fleur75921's GitHub stats](https://github-readme-stats.vercel.app/api?username=fleur75921&show_icons=true&theme=dark)
 
 <!--
 **fleur75921/fleur75921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
